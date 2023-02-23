@@ -1,5 +1,5 @@
 # Contact list
-👋 Hi !This is Springboot project developed also with MySQL, Thymeleaf y Bootstrap. In this proyect you will find these concepts applied:
+👋 Hi !This is Springboot project developed also with MySQL, Thymeleaf and Bootstrap. In this proyect you will find these concepts applied:
 
 - Class.
 - Methods
